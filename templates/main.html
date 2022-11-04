@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>VALORANT: Skindex</title>
+    <link rel="stylesheet" href="styles/main styles.css">
+    <link rel="icon" href="static/valicon.ico">
+    <script type="text/javascript" src="/eel.js"></script>
+  </head>
+
+  <body onload="startPage()">
+    <div id="header">
+      <img src="static/logo.png" alt="VALORANT: Skindex by Ike">
+
+      <nav>
+        <ul class="menu">
+          <li class="dropdown dropdown-5">
+            Weapon Types
+            <ul class="dropdown_menu dropdown_menu-5">
+              <li class="dropdown_item-1" onclick="startPage()">All</li>
+              <li class="dropdown_item-2" onclick="sortSMG()">SMG</li>
+              <li class="dropdown_item-3" onclick="sortRifle()">Rifles</li>
+              <li class="dropdown_item-4" onclick="sortShot()">Shotguns</li>
+              <li class="dropdown_item-5" onclick="sortHeavy()">Heavy</li>
+              <li class="dropdown_item-6" onclick="sortSniper()">Snipers</li>
+              <li class="dropdown_item-7" onclick="sortSidearms()">Sidearm</li>
+              <li class="dropdown_item-8 last" onclick="sortMel()">Melee</li>
+            </ul>
+          </li>
+          <li class="dropdown dropdown-5 wider">
+            Skin Editions
+            <ul class="dropdown_menu dropdown_menu-5">
+              <li class="dropdown_item-1" id="select" onclick="sortEdSelect()">Select</li>
+              <li class="dropdown_item-2" id="duxe" onclick="sortEdDuxe()">Duxe</li>
+              <li class="dropdown_item-3"id="prem" onclick="sortEdPrem()">Premium</li>
+                <li class="dropdown_item-4"id="excl" onclick="sortEdEx()">Exclusive</li>
+                <li class="dropdown_item-5 last" id="ultra" onclick="sortEdUltra()">Ultra</li>
+            </ul>
+          </li>
+          <li id="calculateTab" class="dropdown nodrop">
+            Calculate
+          </li>
+          <li id="cartTab" onclick="viewCart()" class="dropdown nodrop">
+            Cart
+          </li>
+                  
+      </ul>
+    </nav>
+
+      <span id="pointsText"></span>
+    </div>
+
+    <div id="searchDiv">
+      <span>
+        <input type="text" id="search_Col" placeholder="Enter a collection (e.g. Oni, Prime, etc..)">
+        <input type="text" id="search_Type" placeholder="Enter a weapon type (e.g. Phantom, Vandal, etc..)">
+        <span id="searchButtonDB">Search</span>
+      </span>
+    </div>
+
+    <div id="dbContainer">
+      <nav>
+        <ul id="mainDBList">
+          <!-- dynamically added -->
+        </ul>
+      </nav>
+    </div>
+
+    <footer>
+      <p>
+        Valorant Skindex &copy; 2022 Ike Lim
+      </p>
+    </footer>
+
+    <script type="text/javascript" src="scripts/main.js"></script>
+  </body>
+</html>

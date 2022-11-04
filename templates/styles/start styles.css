@@ -1,0 +1,77 @@
+@font-face {
+	font-family: valorantFont;
+	src: url('../static/fonts/Valorant\ Font.ttf');
+}
+@font-face {
+	font-family: defaultFont;
+	src: url('../static/fonts/valorant\ default.ttf');
+}
+
+
+body{
+	background-image: url("../static/bgStart.png");
+	background-attachment: fixed;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 0;
+}
+
+
+#startInputPanel {
+	
+	position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+	#startInputPanel > .child {
+		position: relative;
+		font-size: 20pt;
+		padding: 20px;
+		border-radius: 20px;
+		font-family: valorantFont;
+		margin: 10px;
+	}
+
+	#startInputPanel > .textInput {
+		font-family: defaultFont;
+		width: 80%;
+		color: grey;
+	}
+
+	#startInputPanel > .startButton {
+		width:50%;
+		text-align: center;
+		padding: 15px 25px;
+		font-size: 24px;
+		text-align: center;
+		cursor: pointer;
+		outline: none;
+		color: #fff;
+		background-color: rgb(255, 80, 80);
+		border: none;
+		border-radius: 15px;
+		transition: 0.5s;
+	}
+	#startInputPanel > .startButton:hover {
+		color: #e8e9e8;
+		background: rgb(174, 48, 48);
+		transform: scale(1.05,1.05);
+	}
+
+	#startInputPanel > .startButton:active {
+		background-color: rgb(174, 48, 48);
+		transform: translateY(4px);
+	}
+
+	#startInputPanel > h2 {
+		color: white;
+		font-family: defaultFont;
+	}
+	#startInputPanel > p {
+		color: red;
+		font-family: defaultFont;
+	}

@@ -1,0 +1,333 @@
+Id,Collection,Type,Price
+1,Aristocrat,Ares,1275
+2,Rush,Ares,875
+3,Sakura,Ares,1275
+4,Prism,Ares,1275
+5,Nebula,Ares,1775
+6,Singularity,Ares,2175
+7,Celestial,Ares,1775
+8,Infantry,Ares,875
+9,Minima,Ares,1275
+10,Sentinels of Light,Ares,2175
+11,VALORANT Go! Vol. 2,Ares,1775
+12,Nunca Olvidados,Ares,1275
+13,Magepunk,Ares,1775
+14,Snowfall,Ares,1275
+15,Endeavour,Ares,875
+16,Doodle Buds,Ares,1775
+17,Titanmail,Ares,1275
+18,Ion,Ares,1775
+19,Galleria,Bucky,875
+20,Oni,Bucky,1775
+21,Gravitational Uranium Neuroblaster,Bucky,1775
+22,Ion,Bucky,1775
+23,Prism II,Bucky,875
+24,Horizon,Bucky,1275
+25,Prime 2.0,Bucky,1775
+26,Magepunk,Bucky,1775
+27,Origin,Bucky,1775
+28,Radiant Crisis 001,Bucky,1775
+29,Titanmail,Bucky,1275
+30,Xenohunter,Bucky,1775
+31,Aristocrat,Bulldog,1275
+32,Rush,Bulldog,875
+33,Convex,Bulldog,875
+34,Glitchpop,Bulldog,2175
+35,Horizon,Bulldog,1275
+36,Spectrum,Bulldog,2675
+37,Nunca Olvidados,Bulldog,1275
+38,Protocol 781-A,Bulldog,2475
+39,Undercity,Bulldog,1775
+40,Endeavour,Bulldog,875
+41,Galleria,Classic,875
+42,Sakura,Classic,1275
+43,Avalanche,Classic,1275
+44,Prime,Classic,1775
+45,Spline,Classic,1775
+46,Smite,Classic,875
+47,Gravitational Uranium Neuroblaster,Classic,1775
+48,Glitchpop,Classic,2175
+49,Forsaken,Classic,1775
+50,Spectrum,Classic,2675
+51,VALORANT Go! Vol. 2,Classic,1775
+52,Radiant Crisis 001,Classic,1775
+53,Snowfall,Classic,1275
+54,Undercity,Classic,1775
+55,RGX 11z Pro,Classic,2175
+56,Kohaku & Matsuba,Classic,1275
+57,Oni,Claw,3550
+58,Rush,Frenzy,875
+59,Elderflame,Frenzy,2475
+60,Glitchpop,Frenzy,2175
+61,Sensation,Frenzy,875
+62,BlastX,Frenzy,2175
+63,Horizon,Frenzy,1275
+64,Celestial,Frenzy,1775
+65,Prime 2.0,Frenzy,1775
+66,Origin,Frenzy,1775
+67,RGX 11z Pro,Frenzy,2175
+68,Nunca Olvidados,Frenzy,1275
+69,Team Ace,Frenzy,1275
+70,Titanmail,Frenzy,1275
+71,Xenohunter,Frenzy,1775
+72,Sarmad,Frenzy,1275
+73,Ion,Frenzy,1775
+74,Luxe,Ghost,875
+75,Sovereign,Ghost,1775
+76,Prism,Ghost,1275
+77,Ego,Ghost,1775
+78,Winterwunderland,Ghost,1275
+79,VALORANT Go! Vol. 1,Ghost,1775
+80,Infantry,Ghost,875
+81,Magepunk,Ghost,1775
+82,Tethered Realms,Ghost,1775
+83,Ruination,Ghost,2175
+84,Recon,Ghost,1775
+85,Gaia's Vengeance,Ghost,1775
+86,Endeavour,Ghost,875
+87,Reaver EP 5,Ghost,1775
+88,Galleria,Guardian,875
+89,Prime,Guardian,1775
+90,Sovereign,Guardian,1775
+91,Oni,Guardian,1775
+92,Nebula,Guardian,1775
+93,Ego,Guardian,1775
+94,Reaver,Guardian,1775
+95,VALORANT Go! Vol. 1,Guardian,1775
+96,Infantry,Guardian,875
+97,Tethered Realms,Guardian,1775
+98,Ruination,Guardian,2175
+99,Recon,Guardian,1775
+100,Spectrum,Guardian,2675
+101,RGX 11z Pro,Guardian,2175
+102,Magepunk,Guardian,1775
+103,Gaia's Vengeance,Guardian,1775
+104,Neptune,Guardian,1775
+105,Luxe,Judge,875
+106,Rush,Judge,875
+107,Convex,Judge,875
+108,Elderflame,Judge,2475
+109,Glitchpop,Judge,2175
+110,Smite,Judge,875
+111,Sensation,Judge,875
+112,Celestial,Judge,1775
+113,Snowfall,Judge,1275
+114,Undercity,Judge,1775
+115,Team Ace,Judge,1275
+116,Kohaku & Matsuba,Judge,1275
+117,ChronoVoid,Judge,2175
+118,Crimsonbeast,Judge,1775
+119,Galleria,Marshal,875
+120,Avalanche,Marshal,1275
+121,Sovereign,Marshal,1775
+122,Wasteland,Marshal,1275
+123,Winterwunderland,Marshal,1275
+124,Magepunk,Marshal,1775
+125,Gaia's Vengeance,Marshal,1775
+126,Doodle Buds,Marshal,1775
+127,Crimsonbeast,Marshal,1775
+128,Neptune,Melee,3550
+129,Prime,Melee,3550
+130,Glitchpop,Melee,4350
+131,Recon,Melee,3550
+132,Radiant Crisis 001,Melee,3550
+133,Gravitational Uranium Neuroblaster,Melee,3550
+134,RGX 11z Pro,Melee,4350
+135,Prelude to Chaos,Melee,4350
+136,Sarmad,Melee,2550
+137,Ruination,Melee,4350
+138,Winterwunderland,Melee,2550
+139,Nunca Olvidados,Melee,2550
+140,Origin,Melee,3550
+141,Elderflame,Melee,4950
+142,Glitchpop,Melee,4350
+143,Spline,Melee,3550
+144,Magepunk,Melee,3550
+145,Ion,Melee,3550
+146,Kohaku & Matsuba,Melee,2550
+147,Celestial,Melee,3550
+148,RGX 11z Pro,Melee,4350
+149,Gaia's Vengeance,Melee,3550
+150,Undercity,Melee,3550
+151,Crimsonbeast,Melee,3550
+152,Tigris,Melee,2550
+153,Prime 2.0,Melee,3550
+154,Reaver EP 5,Melee,4350
+155,Ion,Melee,4350
+156,Luxe,Melee,1750
+157,Prism,Melee,2550
+158,Nebula,Melee,3550
+159,Ego,Melee,3550
+160,Smite,Melee,1750
+161,Singularity,Melee,4350
+162,Reaver,Melee,3550
+163,VALORANT Go! Vol. 1,Melee,3550
+164,Xenohunter,Melee,3550
+165,Titanmail,Melee,2550
+166,Protocol 781-A,Melee,4950
+167,BlastX,Melee,4350
+168,Tethered Realms,Melee,3550
+169,Sentinels of Light,Melee,4350
+170,Forsaken,Melee,3550
+171,Magepunk,Melee,3550
+172,Sovereign,Melee,3550
+173,ChronoVoid,Melee,4350
+174,Snowfall,Melee,2550
+175,Spectrum,Melee,5350
+176,VALORANT Go! Vol. 2,Melee,3550
+177,Glitchpop,Odin,2175
+178,Smite,Odin,875
+179,Sensation,Odin,875
+180,BlastX,Odin,2175
+181,Prime 2.0,Odin,1775
+182,Xenohunter,Odin,1775
+183,Reaver EP 5,Odin,1775
+184,Luxe,Operator,875
+185,Convex,Operator,875
+186,Prism,Operator,1275
+187,Elderflame,Operator,2475
+188,Spline,Operator,1775
+189,Gravitational Uranium Neuroblaster,Operator,1775
+190,Reaver,Operator,1775
+191,Ion,Operator,1775
+192,Glitchpop,Operator,2175
+193,Infantry,Operator,875
+194,Silvanus,Operator,1275
+195,Forsaken,Operator,1775
+196,Minima,Operator,1275
+197,Tethered Realms,Operator,1775
+198,Origin,Operator,1775
+199,Sentinels of Light,Operator,2175
+200,VALORANT Go! Vol. 2,Operator,1775
+201,Magepunk,Operator,1775
+202,Tigris,Operator,1275
+203,Team Ace,Operator,1275
+204,Endeavour,Operator,875
+205,RGX 11z Pro,Operator,2175
+206,Prelude to Chaos,Operator,2175
+207,Kohaku & Matsuba,Operator,1275
+208,Galleria,Phantom,875
+209,Rush,Phantom,875
+210,Avalanche,Phantom,1275
+211,Prism,Phantom,1275
+212,Oni,Phantom,1775
+213,Nebula,Phantom,1775
+214,Spline,Phantom,1775
+215,Smite,Phantom,875
+216,Singularity,Phantom,2175
+217,Ion,Phantom,1775
+218,Winterwunderland,Phantom,1275
+219,BlastX,Phantom,2175
+220,Glitchpop,Phantom,2175
+221,Celestial,Phantom,1775
+222,VALORANT Go! Vol. 1,Phantom,1775
+223,Prime 2.0,Phantom,1775
+224,Silvanus,Phantom,1275
+225,Minima,Phantom,1275
+226,Ruination,Phantom,2175
+227,Recon,Phantom,1775
+228,Spectrum,Phantom,2675
+229,Radiant Crisis 001,Phantom,1775
+230,Snowfall,Phantom,1275
+231,Protocol 781-A,Phantom,2475
+232,Tigris,Phantom,1275
+233,Undercity,Phantom,1775
+234,Team Ace,Phantom,1275
+235,Doodle Buds,Phantom,1775
+236,RGX 11z Pro,Phantom,2175
+237,Xenohunter,Phantom,1775
+238,Sarmad,Phantom,1275
+239,Reaver EP 5,Phantom,1775
+240,Kohaku & Matsuba,Phantom,1275
+241,ChronoVoid,Phantom,2175
+242,Aristocrat,Sheriff,1275
+243,Sakura,Sheriff,1275
+244,Convex,Sheriff,875
+245,Nebula,Sheriff,1775
+246,Singularity,Sheriff,2175
+247,Reaver,Sheriff,1775
+248,Ion,Sheriff,1775
+249,Wasteland,Sheriff,1275
+250,Prism II,Sheriff,875
+251,Silvanus,Sheriff,1275
+252,Minima,Sheriff,1275
+253,Sentinels of Light,Sheriff,2175
+254,Magepunk,Sheriff,1775
+255,Protocol 781-A,Sheriff,2475
+256,ChronoVoid,Sheriff,2175
+257,Crimsonbeast,Sheriff,1775
+258,Oni,Shorty,1775
+259,Wasteland,Shorty,1275
+260,Prism II,Shorty,875
+261,Tigris,Shorty,1275
+262,Doodle Buds,Shorty,1775
+263,Neptune,Shorty,1775
+264,Prelude to Chaos,Shorty,2175
+265,Luxe,Spectre,875
+266,Convex,Spectre,875
+267,Avalanche,Spectre,1275
+268,Prime,Spectre,1775
+269,Prism,Spectre,1275
+270,Spline,Spectre,1775
+271,Gravitational Uranium Neuroblaster,Spectre,1775
+272,Singularity,Spectre,2175
+273,Wasteland,Spectre,1275
+274,BlastX,Spectre,2175
+275,Horizon,Spectre,1275
+276,VALORANT Go! Vol. 1,Spectre,1775
+277,Infantry,Spectre,875
+278,Magepunk,Spectre,1775
+279,Forsaken,Spectre,1775
+280,Minima,Spectre,1275
+281,Ruination,Spectre,2175
+282,Recon,Spectre,1775
+283,Radiant Crisis 001,Spectre,1775
+284,Protocol 781-A,Spectre,2475
+285,Tigris,Spectre,1275
+286,RGX 11z Pro,Spectre,2175
+287,Neptune,Spectre,1775
+288,Sarmad,Spectre,1275
+289,Reaver EP 5,Spectre,1775
+290,Ion,Spectre,1775
+291,Aristocrat,Stinger,1275
+292,Sakura,Stinger,1275
+293,Sovereign,Stinger,1775
+294,Ego,Stinger,1775
+295,Sensation,Stinger,875
+296,Prism II,Stinger,875
+297,Silvanus,Stinger,1275
+298,RGX 11z Pro,Stinger,2175
+299,Doodle Buds,Stinger,1775
+300,Prelude to Chaos,Stinger,2175
+301,Luxe,Vandal,875
+302,Aristocrat,Vandal,1275
+303,Sakura,Vandal,1275
+304,Avalanche,Vandal,1275
+305,Prime,Vandal,1775
+306,Elderflame,Vandal,2475
+307,Ego,Vandal,1775
+308,Reaver,Vandal,1775
+309,Wasteland,Vandal,1275
+310,Sensation,Vandal,875
+311,Winterwunderland,Vandal,1275
+312,Prism II,Vandal,875
+313,Horizon,Vandal,1275
+314,Glitchpop,Vandal,2175
+315,Silvanus,Vandal,1275
+316,Forsaken,Vandal,1775
+317,Tethered Realms,Vandal,1775
+318,Origin,Vandal,1775
+319,Sentinels of Light,Vandal,2175
+320,VALORANT Go! Vol. 2,Vandal,1775
+321,RGX 11z Pro,Vandal,2175
+322,Nunca Olvidados,Vandal,1275
+323,Gaia's Vengeance,Vandal,1775
+324,Team Ace,Vandal,1275
+325,Endeavour,Vandal,875
+326,Titanmail,Vandal,1275
+327,Neptune,Vandal,1775
+328,Prelude to Chaos,Vandal,2175
+329,Sarmad,Vandal,1275
+330,ChronoVoid,Vandal,2175
+331,Crimsonbeast,Vandal,1775
+332,Ion,Vandal,1775
